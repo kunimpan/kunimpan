@@ -1,6 +1,23 @@
 # 💫 About Me:
 ### Hi there I’m Opaspun, Wecome to my github.👋<br><br>- 🌱 I’m currently learning Font-end, Back-end, mobile developer<br>- 💬 I’m Studying at the Rajamangala University of Technology Lanna<br>- 📫 How to reach me: Fackbook: Pun Opaspun, E-mail: koonimpan555@gmail.com
 
+## Skills
+#  Frameworks / Technologies
+    Angular (Front-end)
+    NestJS (Back-end API)
+    MongoDB (Database)
+    Flutter
+    Tailwind CSS
+    Bootstrap
+    phpMyAdmin
+    Git
+
+#  Coding Languages
+    TypeScript/JavaScript
+    Dart
+    C/C++
+    HTML/CSS
+    php
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Pun Opaspun](https://web.facebook.com/impanklinchuenjit.klinchuenjit)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunimpan) 

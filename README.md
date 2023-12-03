@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there I’m Opaspun, Wecome to my github.👋<br><br>- 🌱 I’m currently learning Font-end, Back-end, mobile developer<br>- 💬 I’m Studying at the Rajamangala University of Technology Lanna<br>- 📫 How to reach me: Fackbook: Pun Opaspun, E-mail: koonimpan555@gmail.com
 
-#Skills
+# Skills
   Frameworks / Technologies
     Angular (Front-end)
     NestJS (Back-end API)
